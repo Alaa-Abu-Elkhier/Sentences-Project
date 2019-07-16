@@ -1,0 +1,17 @@
+div{
+    text-align:center;
+    background-color: rgb(255, 251, 251);
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-block-end:10px;
+    padding-block-start: 40px;
+ 
+    font-style: italic;
+    font-size: 15px;
+   
+
+}
+body{
+    background-color: rgb(114, 173, 173)
+    }
+  
